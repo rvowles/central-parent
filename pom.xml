@@ -98,7 +98,7 @@
           <version>2.4.1</version>
           <configuration>
             <mavenExecutorId>forked-path</mavenExecutorId>
-            <arguments>--Dbts.release=release</arguments>
+            <arguments>-Dbts.release=release</arguments>
             <preparationGoals>clean enforcer:enforce verify</preparationGoals>
             <goals>enforcer:enforce deploy</goals>
             <tagBase>release/${project.groupId}/</tagBase>
