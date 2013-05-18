@@ -30,9 +30,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:git@github.com:rvowles/central-parent</connection>
-    <developerConnection>scm:git:git@github.com:rvowles/central-parent</developerConnection>
-    <url>http://github.com/rvowles/central-parent</url>
+    <connection>scm:git:git@github.com:rvowles/central-parent.git</connection>
+    <developerConnection>scm:git:git@github.com:rvowles/central-parent.git</developerConnection>
+    <url>git@github.com:rvowles/central-parent.git</url>
   </scm>
 
   <properties>
